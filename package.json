@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mssql": "^10.0.1",
+    "telegraf": "^4.15.0"
+  }
+}
